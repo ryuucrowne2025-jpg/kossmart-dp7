@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kossmart
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# kossmart-dp7
+tugas
+>>>>>>> 69a159f87b61c1ad4c5de45b4fc1a311bb6f0f2d
