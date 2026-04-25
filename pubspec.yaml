@@ -1,0 +1,35 @@
+name: kossmart
+description: "KosSmart App - Pencarian Kos Berbasis Flutter GetX"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # 🔥 State Management (WAJIB)
+  get: ^4.6.6
+
+  # 📸 Image Picker (untuk tugas fitur upload foto)
+  image_picker: ^1.0.7
+
+  # 🌐 HTTP (kalau nanti pakai API / backend)
+  http: ^1.2.1
+
+  # 💾 Local Storage (opsional, biar lebih keren)
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
